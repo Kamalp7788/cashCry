@@ -1,0 +1,16 @@
+export const Images = {
+  titleIcon: require('../assest/Image/CASH.png'),
+  searchIcon: require('../assest/Image/Search.png'),
+  indicatorIcon: require('../assest/Image/Indicator.png'),
+  bellIcon: require('../assest/Image/Icons.png'),
+  backgroundIcon: require('../assest/Image/background.png'),
+  nextIcon: require('../assest/Image/arrow-24-16.png'),
+  amzonIcon: require('../assest/Image/amazon.png'),
+  deleverIcon: require('../assest/Image/delever.png'),
+  fareIcon: require('../assest/Image/fare.png'),
+  bgcolorIcon: require('../assest/Image/bgcolor2.png'),
+  giftIcon: require('../assest/Image/gift.png'),
+  offlineIcon: require('../assest/Image/offline.png'),
+  onlineIcon: require('../assest/Image/online.png'),
+  bagIcon: require('../assest/Image/money-bag.png'),
+};
